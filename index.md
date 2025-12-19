@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/mean-var-std)
+[Project 1 Title](FEScott/mean-var-std)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
