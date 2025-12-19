@@ -1,11 +1,11 @@
 title: John Doe # your name (or website title) here
 logo: "/images/IMG_8595.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Physics graduate transitioning into data analysis with a focus on environmental applications. Passionate about using data to understand and address environmental challenges. 
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/freya-scott-924704344/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
