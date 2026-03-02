@@ -5,7 +5,7 @@
 ### Independant Data Analysis Projects
 
 [Solar Power Analysis](https://github.com/FEScott/solar_power_analysis/blob/main/NOTEBOOK-NAME.ipynb)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/daily_solar_generation_graph.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
