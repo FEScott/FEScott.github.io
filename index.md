@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Solar Power Analysis](FEScott/solar_power_analysis)
+[Solar Power Analysis](github.com/FEScott/solar_power_analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
