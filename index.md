@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](FEScott/mean-var-std)
+[Solar Power Analysis](FEScott/solar_power_analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
