@@ -4,7 +4,7 @@
 
 ### Independant Data Analysis Projects
 
-[Solar Power Analysis](https://github.com/FEScott/solar_power_analysis)
+[Solar Power Analysis](https://github.com/FEScott/solar_power_analysis/blob/main/NOTEBOOK-NAME.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
