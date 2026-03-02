@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Independant Data Analysis Projects
 
-[Solar Power Analysis](github.com/FEScott/solar_power_analysis)
+[Solar Power Analysis](https://github.com/FEScott/solar_power_analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
