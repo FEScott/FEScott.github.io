@@ -8,22 +8,14 @@
 <img src="images/daily_solar_generation_graph.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Data Anlysis with Python Test Projects
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Mean, Variance, Standard Deviation](https://github.com/FEScott/mean-var-std)
+- [Demographic Data Analyser](https://github.com/FEScott/Demographic-Data-Analyzer)
+- [Medical Data Visualiser](https://github.com/FEScott/Medical-Data-Visualizer)
+- [Time Series Visualiser](https://github.com/FEScott/Time-Series-Visualizer)
+- [Sea Level Predictor](https://github.com/FEScott/Sea-Level-Predictor-)
 
 ---
 
